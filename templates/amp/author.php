@@ -1,6 +1,6 @@
 <?php
 	$avatar_url = get_avatar_url( $author['id'] );
-	$author = $this->get( 'author' );
+	$author     = $this->get( 'author' );
 ?>
 
 <div class="liveblog-meta-author">
